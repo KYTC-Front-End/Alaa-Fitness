@@ -7,7 +7,7 @@
   margin-left: 48vw;
 }
 .hero-img{
-    background-image: url(/image/hero.png);
+    background-image: url(./image/hero.png);
     height: 629px;
 }
 .nav-top{
@@ -138,10 +138,7 @@
 
 }
 
-.left-work{
-    /* margin-left: -37rem; */
 
-}
 
 .it-work{
    font-weight: 900;
@@ -181,9 +178,6 @@
     padding-top: 110px;
 }
 
-.work1{
-  /* margin-top: 8em; */
-}
 .text-work{
     font-size: 1.5em;
     font-family: 'Yrsa', serif;
